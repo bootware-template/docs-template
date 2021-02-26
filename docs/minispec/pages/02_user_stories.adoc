@@ -1,0 +1,10 @@
+== ユーザーストーリー
+
+[plantuml]
+----
+actor Alice
+actor Bob
+
+Alice -> Bob: こんにちは
+Bob ---> Alice: こんばんは
+----

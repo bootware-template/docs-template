@@ -1,0 +1,23 @@
+include::../_common/header.adoc[]
+
+= Mini Spec
+
+http://techblog.housmart.co.jp/2018/03/20/minispec/[What's mini spec ?]
+
+include::pages/01_issue_to_be_solved.adoc[]
+
+include::pages/02_user_stories.adoc[]
+
+include::pages/03_repository_platform.adoc[]
+
+include::pages/04_non-functional_requirements.adoc[]
+
+include::pages/05_purpose.adoc[]
+
+include::pages/06_target_due.adoc[]
+
+include::pages/07_team.adoc[]
+
+include::pages/08_stakeholders.adoc[]
+
+include::pages/09_reference.adoc[]
